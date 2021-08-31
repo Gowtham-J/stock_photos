@@ -2,7 +2,7 @@
   "name": "stock_photos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gowtham-J.github.io/stock_photos.git",
+  "homepage": "https://Gowtham-J.github.io/stock_photos",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
